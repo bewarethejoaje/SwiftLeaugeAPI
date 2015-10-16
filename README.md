@@ -1,4 +1,4 @@
-# SwiftLeaugeAPI
+# SwiftLeagueAPI
 A RESTful Swift library to access the Riot Games API. Use this as a starting point if you plan on using Riot Games API using Swift!
 
 I made this basic library for an IOS application that shows you your recent games.
